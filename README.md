@@ -48,29 +48,3 @@ I have applied four models for sentiment analysis and trained and tested them ov
 - **Fake News Prediction**
 
 
-## Contributing
-You are welcome to contribute :
-
-1. Fork it (https://github.com/roysaurabh1308/Sentiment-Analysis-using-RNN-LSTM-GRU-Bi.LSTM/fork)
-2. Create new branch : `git checkout -b new_feature`
-3. Commit your changes : `git commit -am 'Added new_feature'`
-4. Push to the branch : `git push origin new_feature`
-5. Submit a pull request !
-
-## Author 
-**Thanks for going through this Repository! Have a nice day.**</br>
-**Have any querry? Feel free to contact me.**</br>
-</br>**Saurabh Roy**</br>
-#### **Contact** :`roysaurabh1308@gmail.com`
-<p align="left">
-<a href="https://github.com/roysaurabh1308/" target="_blank"><img src="Documentation/icons/github.svg" height ="40" alt="github"></a>
-<a href="mailto:roysaurabh1308@gmail.com" target="_blank"><img src="Documentation/icons/mail.svg" height ="40" alt="Gmail"></a>
-<a href="mailto:saurabhr17100@iiitnr.edu.in" target="_blank"><img src="Documentation/icons/mail1.svg" height ="40" alt="College Mail"></a>
-<a href="https://www.linkedin.com/in/saurabh-roy-18811014b" target="_blank"><img src="Documentation/icons/linkedin.svg" alt="Linkedin"></a>
-</p>
-
-## License
-This Project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
-<br>
-<br>
-<p align="center"><img src="Documentation/icons/thank-you.png" height=50></p>
